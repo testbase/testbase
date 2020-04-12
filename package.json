@@ -1,5 +1,5 @@
 {
-  "name": "@testbase/testbase",
+  "name": "testbase",
   "private": true,
   "devDependencies": {
     "lerna": "^3.20.2"
